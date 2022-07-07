@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "marvelApp"
+    }
+  },
+  "defaultProject": "marvelApp",
+  "cli": {
+    "analytics": "5e0e63ca-0e09-4996-a99c-68f1faf8c606"
+  }
 }
